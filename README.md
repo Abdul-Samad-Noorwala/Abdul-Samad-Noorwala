@@ -1,14 +1,3 @@
-### Hi there 👋 Abdul Samad Noorwala
-
-<!--
-**Abdul-Samad-Noorwala/Abdul-Samad-Noorwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 💬 Ask me about ...  **Flutter, Android (Java)**
-- 📫 How to reach me: ... **samadsalman14@gmail.com**
-- ⚡ Fun fact: ... **I love to learn about software development**
--->
 <h1 align="center">Hi 👋, I'm Abdul Samad Noorwala</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
